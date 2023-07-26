@@ -3,3 +3,5 @@ import torch
 print(torch.__version__)
 print('pull done')
 
+# 学习模型验证部分的算子特征提取环节
+
