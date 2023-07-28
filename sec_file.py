@@ -14,8 +14,10 @@ class unet:
         return x1
 
 class res_unet:
-    def __init__(self, chnnels=6):
-        self.ch = channels
+    def __init__(self, chnnels=6, weight = 0.5):
+        self.ch = chnnels
+        self.weight = weight
     def forward(self, x):
-        x1 = self.ch + 256 + self.ch
+        x1 = self.ch + 256 + (self.ch * weight)
+
         return x1
