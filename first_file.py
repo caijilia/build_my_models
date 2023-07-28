@@ -36,3 +36,6 @@ print('because i am learning')
 print('let try again')
 
 print('现在就是及时拉取了啊 看下能否正常推送')
+a = 'keep'
+b = 'seg'
+a = a + b
