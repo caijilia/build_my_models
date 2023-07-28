@@ -50,7 +50,7 @@ def erdu():
     unet = 0
     cee = 1
 
-    erdu = cee + unet + abt + dcd + attention + res
+    erdu = (cee + unet + abt + dcd + attention + res + att_skip)
 
     ersu = cee + unet + abt + dcd + res
 
