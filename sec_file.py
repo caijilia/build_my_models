@@ -12,3 +12,10 @@ class unet:
     def forward(self, x):
         x1 = self.ch + 256
         return x1
+
+class res_unet:
+    def __init__(self, chnnels=6):
+        self.ch = channels
+    def forward(self, x):
+        x1 = self.ch + 256 + self.ch
+        return x1
