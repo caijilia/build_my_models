@@ -1,5 +1,5 @@
 import torch
 import numpy
-import onnx
+import sklearn
 
 print(torch.__version__)
