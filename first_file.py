@@ -49,7 +49,7 @@ def unet():
 def erdu():
     unet = 0
     cee = 1
-    erdu = cee + unet + abt + dcd
+    erdu = cee + unet + abt + dcd + res + attention
     return erdu
 
 print('i think you have done learn')
