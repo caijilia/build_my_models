@@ -46,3 +46,8 @@ def unet():
   b = 1
   c = a + b
 
+def erdu():
+    unet = 0
+    cee = 1
+    erdu = cee + unet + erdu
+    return erdu
