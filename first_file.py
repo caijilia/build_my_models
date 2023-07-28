@@ -18,3 +18,6 @@ print('同步后再次修改 尝试push')
 # keep learning
 
 print('还是没看懂 现在我在origin/main端进行修改')
+
+# 现在我是及时拉取了最新的远端仓库内容 在这个基础上进行修改
+print('及时拉取+继续修改')
