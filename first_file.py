@@ -50,9 +50,9 @@ def erdu():
     unet = 0
     cee = 1
 
-    erdu = (cee + unet + abt + dcd + attention + res + att_skip)
+    erdu = (cee + unet + abt + dcd + attention + res + att_skip) doule
 
-    ersu = cee + unet + abt + dcd + res
+    ersu = cees + unet + abt + dcd + res
 
     return erdu
 
