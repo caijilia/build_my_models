@@ -27,6 +27,6 @@ print('ha? seem scc')
 
 print('now keep learn rebase')
 
-print('now keep learn rebase')
-
 print('now keep learn rebase happily')
+
+print('why this twice')
