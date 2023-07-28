@@ -51,3 +51,6 @@ def erdu():
     cee = 1
     erdu = cee + unet + erdu
     return erdu
+
+print('i think you have done learn')
+
