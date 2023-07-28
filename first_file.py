@@ -24,3 +24,5 @@ print('及时拉取+继续修改')
 print('fail')
 
 print('ha? seem scc')
+
+print('now keep learn rebase happily')
