@@ -19,5 +19,4 @@ class res_unet:
         self.weight = weight
     def forward(self, x):
         x1 = self.ch + 256 + (self.ch * weight)
-
         return x1
